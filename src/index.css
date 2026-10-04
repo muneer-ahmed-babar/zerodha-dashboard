@@ -842,5 +842,15 @@ hr {
   background-color: rgb(212, 212, 212);
 }
 
+/* My Addings to this file */
+.actions > span {
+  display: flex;
+  align-items: center;
+}
+
+.itemInfo {
+  display: flex;
+  align-items: center;
+}
 
 
